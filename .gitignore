@@ -1,0 +1,9 @@
+# local config (isi sendiri — jangan commit)
+.env
+
+# run artifacts (di-generate per run)
+sync_manifest.json
+jb_test_*.json
+REPORT.md
+backups/
+__pycache__/
